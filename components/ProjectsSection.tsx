@@ -25,8 +25,8 @@ const projects = [
     description:
       "Welcome to family. My name is keshav",
     image: "/keshav_2.png",
-    github: "",
-    link: "",
+    github: "https://github.com/keshav2800/Keshav-portfolio",
+    link: "https://keshav-me.vercel.app/",
   },
 ]
 
