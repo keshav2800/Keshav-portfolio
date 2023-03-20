@@ -20,7 +20,7 @@ const HeroSection = () => {
           />
         </div>
         <div className="md:mt-2 md:w-3/5">
-          <h1 className="text-4xl font-bold mt-6 md:mt-0 md:text-7xl">Hi, I&#39;m 
+          <h1 className="text-4xl font-bold mt-6 md:mt-0 md:text-7xl">Hi, I'm 
           <TypeAnimation sequence = {[
             'Keshav',
             2000,
@@ -33,7 +33,7 @@ const HeroSection = () => {
           speed={50}
           repeat={Infinity} /></h1>
           <p className="text-lg mt-4 mb-6 md:text-2xl">
-            I&#39;m a{" "} 
+            I'm a{" "} 
             curious problem-solver who loves to create and innovate
             using technology Join me down below and let's get cracking!
           </p>
