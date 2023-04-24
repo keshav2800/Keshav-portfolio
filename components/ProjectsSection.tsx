@@ -6,6 +6,14 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
+    name: "WEB3 Krypt",
+    description:
+      "Web 3.0 blockchain application to send and recieve ETH",
+    image: "/web3.png",
+    github: "https://github.com/keshav2800/web3_krypt",
+    link: "/",
+  },
+  {
     name: "Sharkie Game",
     description:
       "Sharkie is a javascript based Jump and run game",
@@ -28,6 +36,7 @@ const projects = [
     github: "https://github.com/keshav2800/Keshav-portfolio",
     link: "https://keshav-me.vercel.app/",
   },
+  
 ]
 
 const ProjectsSection = () => {
